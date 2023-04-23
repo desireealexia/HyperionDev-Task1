@@ -1,0 +1,10 @@
+# programme asks user to input name and prints
+name = input("What is your name?")
+print(name)
+
+# ask user to input age and prints
+age = input("What is your age?")
+print(age)
+
+# print out 'Hello World!'
+print("Hello World!")
